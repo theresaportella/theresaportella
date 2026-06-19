@@ -36,7 +36,6 @@
 - Power Automate
 - ERP SAP
 - Visual Studio Code
-- Docker
 
 **Linguagens**
 - VBA
@@ -48,6 +47,13 @@
 ---- 
 
 **Estudos em andamento:**
+- AWS
+- Docker
+- PostgreSQL
+- Apache Kafka
+- Apache Spark
+- DBeaver
+
 </div>
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=theresaportella&layout=compact)
