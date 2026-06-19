@@ -9,8 +9,8 @@
 ---- 
 ## 🎓 Formação 
 
-- 2026 - Pós-graduação em Engenharia e Arquitetura de Dados e Inteligência Artificial
-- 2017 - Graduação em Engenharia Química [UFRRJ](https://portal.ufrrj.br/)
+- 2026 - Pós-graduação em Engenharia e Arquitetura de Dados e Inteligência Artificial - XPE
+- 2017 - Graduação em Engenharia Química - [UFRRJ](https://portal.ufrrj.br/)
 
 <br>
 
