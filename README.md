@@ -12,6 +12,6 @@ I also act as a strategic focal point for projects involving various areas, conn
 
 ## Studies
 
-- 🎓 Bachelor of Chemical Engineering at [UFRRJ](https://portal.ufrrj.br/)
+- 🎓 Bachelor of Chemical Engineering at [UFRRJ](https://portal.ufrrj.br/) - 2017
 - ☑️ Tableau Data Scientist - 2020 [(Tableau Badge)](https://www.credly.com/badges/322241bb-6beb-4e09-9572-bba665ebb4c6/public_url)
-- 📚 Santander Bootcamp 2023 - Ciência de Dados com Python [(Certificate)](https://www.dio.me/certificate/AAC5ABA9/share)
+- 📚 Santander Bootcamp - Ciência de Dados com Python - 2023 [(Certificate)](https://www.dio.me/certificate/AAC5ABA9/share)
