@@ -10,6 +10,8 @@
 ## 🎓 Formação 
 
 - 2026 - Pós-graduação em Engenharia e Arquitetura de Dados e Inteligência Artificial - XPE
+- 2023 - Pós-graduação em Business Intelligence, Big Data e Inteligência Artificial - Faculdade Focus
+- 2022 - Pós-graduação em Gestão de Processos Logísticos - Faculdade Focus
 - 2017 - Graduação em Engenharia Química - [UFRRJ](https://portal.ufrrj.br/)
 
 <br>
