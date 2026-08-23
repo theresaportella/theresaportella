@@ -36,6 +36,8 @@
 - Power Automate
 - ERP SAP
 - Visual Studio Code
+- Docker
+- DBeaver
 
 **Linguagens**
 - VBA
@@ -47,12 +49,13 @@
 ---- 
 
 **Estudos em andamento:**
-- AWS
-- Docker
+- PyCharm
+- dbt
+- DuckDB
 - PostgreSQL
 - Apache Kafka
 - Apache Spark
-- DBeaver
+- AWS
 
 </div>
 
