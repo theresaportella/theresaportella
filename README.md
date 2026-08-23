@@ -53,6 +53,7 @@
 - dbt
 - DuckDB
 - PostgreSQL
+- Streamlit
 - Apache Kafka
 - Apache Spark
 - AWS
