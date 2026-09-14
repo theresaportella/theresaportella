@@ -49,6 +49,8 @@
 ---- 
 
 **Estudos em andamento:**
+- HTML
+- CSS
 - PyCharm
 - dbt
 - DuckDB
